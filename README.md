@@ -3,6 +3,9 @@
 ## Definition
 
 Perl is a high-level language created by Larry Wall in 1987, initially for text processing. It has evolved to support web development, system administration, network programming, and more. Perl excels in text manipulation and regular expression support, and borrows features from C and shell scripting.
+<br/>
+![Logo-Perl](img/perl.png)
+<br/>
 
 ## Uses of Perl
 
